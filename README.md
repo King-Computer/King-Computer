@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @King-Computer
 - 👀 I’m interested in game development.
-- 🌱 I’m currently learning programming languages.
-- 💞️ I’m looking to collaborate on anywhere.
+- 🌱 I’m currently learning game development.
 - 📫 How to reach me: Discord: king_computer and Guilded: https://www.guilded.gg/u/king-computer
 
 <!---
